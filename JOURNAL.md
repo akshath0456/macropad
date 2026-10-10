@@ -12,4 +12,6 @@
 | --- | --- | --- | --- |
 | Week 1 | Tier 1 | 0h | 0 |
 
-_No entries logged yet._
+10/10/2026
+Made a Pcb prototype currently being checked for any mistakes
+https://lapse.hackclub.com/timelapse/9cZNwSwANMjH
