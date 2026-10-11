@@ -100,10 +100,6 @@ For more advanced automation, such as launching arbitrary applications, running 
 - [ ] Add persistent settings and custom actions.
 - [ ] Develop optional host-side automation software.
 
-## 📜 License
 
-This project can be released under the MIT License or another open-source license of your choice.
-
----
 
 **A small hardware controller for a fully customizable software workflow.**
