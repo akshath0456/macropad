@@ -15,6 +15,8 @@ The goal of this project is to create a programmable hardware controller that ca
 - **Custom Macros:** Assign actions to individual keys.
 - **Menu System:** Use the rotary encoder and display to navigate available functions.
 - **Expandable Software:** Add new macros, profiles, and features as needed.
+  <img width="553" height="606" alt="Screenshot From 2026-10-11 23-43-42" src="https://github.com/user-attachments/assets/1702ab42-3ba5-4e0c-82d3-e671c94e7eb9" />
+
 
 ## 🧰 Hardware Requirements
 
