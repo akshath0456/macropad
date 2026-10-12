@@ -1,3 +1,17 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+'''
+**Warning!!!: Beta Firmware**
+
+This firmware is currently in beta testing and has not been confirmed to be stable or reliable. It may contain bugs, unexpected behavior, or other issues. Please use it at your own risk.
+
+By installing or using this firmware, you acknowledge that it is experimental. The developer assumes no responsibility for any damage, data loss, device malfunction, or other issues that may result from its use.
+
+**Use with caution. Not recommended for production or mission-critical devices.**
+
+'''
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # CircuitPython macro pad: 4x4 key matrix + rotary encoder + I2C OLED (SSD1306)
 # Works as a USB HID keyboard / consumer control (volume) device.
 #
