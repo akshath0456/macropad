@@ -20,7 +20,7 @@
 | [Rotary Encoder Module](https://robu.in/product/green-rotary-encoder-module-for-arduino-without-demo-code/) | for volume knob | 1 | $0.71 | $0.71 | [Robu](https://robu.in/product/green-rotary-encoder-module-for-arduino-without-demo-code/) |
 | [PcB](https://cart.jlcpcb.com/quote?fileId=1e3bcb6e8c6b4599bd084ca78df355a2&uuid=4f52febd9a8845af9254a4415f173af4&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro) | to connect all the things | 1 | $4.00 | $4.00 | [JLC PcB](https://cart.jlcpcb.com/quote?fileId=1e3bcb6e8c6b4599bd084ca78df355a2&uuid=4f52febd9a8845af9254a4415f173af4&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro) |
 | **Parts subtotal** | — | — | — | **$15.96** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.96** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$27.96** | — |
 
-$14.04 left of the tier's funding.
+$2.04 left of the tier's funding.
